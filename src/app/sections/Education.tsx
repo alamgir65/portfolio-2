@@ -28,6 +28,14 @@ const EducationSection: React.FC = () => {
             className: "h-24 w-24",
             style: { maxWidth: '96px', maxHeight: '96px' }
         },
+        {
+            degree: "Secondary School Certificate (SSC)",
+            school: "CHAR JABBER UNION HIGH SCHOOL.",
+            year: "2015 - 202",
+            logo: "/school.png",
+            className: "h-24 w-24",
+            style: { maxWidth: '96px', maxHeight: '96px' }
+        },
     ];
 
     const certificationData = [
