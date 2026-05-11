@@ -19,7 +19,7 @@ import CpSection from './sections/Cp';
 
 export default function Home() {
   const words = [
-    "Web Developer | MERN ",
+    "Software Developer | MERN ",
     "Competitive Programmer",
     "Let's Build Something Amazing Together !",
   ];
@@ -178,7 +178,7 @@ export default function Home() {
                     {/* CTA Buttons */}
                     <motion.div variants={itemVariants} className="flex flex-col sm:flex-row gap-3 sm:gap-2 mt-4">
                       <motion.a
-                        href="https://drive.google.com/file/d/1UiITMC1UhNa9bMl_sRLiXJxsgS8TDPqE/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1VUnHT3b-8h24gxs_5ZApSWqu1UUXKdLI/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         whileHover={{ scale: 1.05 }}
@@ -195,7 +195,7 @@ export default function Home() {
                       </motion.a>
 
                       <motion.a
-                        href="https://calendly.com/utsho/30min"
+                        href="https://calendly.com/alamgirhossain23525/30min"
                         target="_blank"
                         whileHover={{ scale: 1.05 }}
                         whileTap={{ scale: 0.95 }}
@@ -225,7 +225,7 @@ export default function Home() {
                         whileHover={{ scale: 1.1 }}
                         aria-label="LinkedIn"
                         className="rounded-lg contact-social-icon transition-colors"
-                        onClick={() => window.open('https://www.linkedin.com/in/utsho-heaven-chowdhury/', '_blank')}
+                        onClick={() => window.open('https://www.linkedin.com/in/alamgirhossain/', '_blank')}
                       >
                         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width={32} height={32} className="w-8 h-8" />
                       </motion.button>
@@ -234,7 +234,7 @@ export default function Home() {
                         whileHover={{ scale: 1.1 }}
                         aria-label="Email"
                         className=" rounded-lg contact-social-icon transition-colors"
-                        onClick={() => window.location.href = 'mailto:utshozi11@gmail.com'}
+                        onClick={() => window.location.href = 'mailto:alamgirhossain23525@gmail.com'}
                       >
                         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width={32} height={32} className="w-8 h-8" />
                       </motion.button>
@@ -284,7 +284,7 @@ export default function Home() {
                         style={{ backgroundColor: 'rgba(17, 24, 39, 0.95)' }}
                       >
                         <Image
-                          src="/alamgir3.png"
+                          src="/DP_removed_BG.png"
                           alt="Profile"
                           width={320}
                           height={400}

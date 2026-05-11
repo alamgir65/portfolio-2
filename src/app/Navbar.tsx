@@ -16,6 +16,7 @@ const navLinks = [
   { id: "home", icon: FaHome, text: "HOME", href: "#home" },
   { id: "skills", icon: FaCode, text: "SKILLS", href: "#skills" },
   { id: "projects", icon: FaLaptopCode, text: "PROJECTS", href: "#projects" },
+  { id: "cp", icon: FaCode, text: "CP", href: "#cp" },
   { id: "education", icon: FaGraduationCap, text: "EDUCATION", href: "#education" },
   { id: "contacts", icon: FaEnvelope, text: "CONTACTS", href: "#contacts" },
 ];

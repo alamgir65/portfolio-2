@@ -143,7 +143,7 @@ export default function About(): React.ReactElement {
                     {'<'} hello world {'>'}
                   </motion.span>
                 </motion.p>
-                <motion.div variants={textItemVariant} className="mt-8">
+                {/* <motion.div variants={textItemVariant} className="mt-8">
                   <a 
                     href="https://www.supportkori.com/utsho" 
                     target="_blank" 
@@ -164,7 +164,7 @@ export default function About(): React.ReactElement {
                     />
                     <span className="text-lg">Buy me Koffee ?</span>
                   </a>
-                </motion.div>
+                </motion.div> */}
               </div>
             </motion.div>
           </div>

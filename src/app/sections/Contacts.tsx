@@ -43,21 +43,21 @@ export default function Contact() {
         </svg>
       ),
       label: "Facebook",
-      link: "https://www.facebook.com/alamgir-hossain",
+      link: "https://www.facebook.com/alamgir23525",
       text: "Add Friend",
     },
     {
       icon: <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" className="w-8 h-8" />,
       label: "Instagram",
-      link: "https://instagram.com/alamgir_65",
+      link: "https://www.instagram.com/alam_gir_65/",
       text: "Follow Me",
     },
-    {
-      icon: <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" className="w-8 h-8" />,
-      label: "Twitter",
-      link: "https://twitter.com/alamgir65",
-      text: "Tweet",
-    },
+    // {
+    //   icon: <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" className="w-8 h-8" />,
+    //   label: "Twitter",
+    //   link: "https://twitter.com/alamgir65",
+    //   text: "Tweet",
+    // },
     {
       icon: <MapPin className="w-8 h-8 text-red-500" />,
       label: "Location",

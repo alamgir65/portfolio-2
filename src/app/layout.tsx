@@ -38,6 +38,9 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: "Alamgir Hossain",
+  icons: {
+    icon: '/favicon.ico', // Path relative to the public folder
+  },
 };
 
 export default function RootLayout({
